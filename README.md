@@ -3,6 +3,8 @@
 본 프로젝트는 KITRI BoB(Best of the Best) 12기에서 진행한 프로젝트입니다.
 4개월 동안 ROS2와 DDS에 대한 취약성 연구를 진행한 내용을 기록하였습니다.
 
++프로젝트 기간 이후 취약점을 발견하고 이를 보고하여 CVE-2024-28231을 부여받았으며, Open Source Contribution성공적으로 완료했습니다.
+
 This project was carried out by the 12th KITRI BoB (a.k.a [Best of the Best](https://www.kitribob.kr/)).
 We recorded the vulnerability research conducted on ROS2 and DDS over a period of four months.
 ([CVEIssacGleaning@gmail.com]
